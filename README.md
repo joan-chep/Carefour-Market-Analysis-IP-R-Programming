@@ -16,15 +16,19 @@ The RPubs Link: https://rpubs.com/Joan_Chep/886052
 
 Performed feature selection through the use of the unsupervised learning methods. Performed analysis and provided insights on the features that contributed the most information to the dataset. Data used is http://bit.ly/CarreFourDataset
 
-The RPubs Link: 
+The RPubs Link: https://rpubs.com/Joan_Chep/886058
 
 ### Part 3: Association Rules
 
 Created association rules that will allow you to identify relationships between variables in the dataset. Provided insights for analysis done. Data used is http://bit.ly/SupermarketDatasetII
 
+The RPubs Link: https://rpubs.com/Joan_Chep/886060
+
 ### Part 4: Anomaly Detection
 
 Checked whether there are any anomalies in the given sales dataset. The objective of this task being fraud detection. Data used is http://bit.ly/CarreFourSalesDataset
+
+The RPubs Link: https://rpubs.com/Joan_Chep/886063
 
 ## Metric for success
 
