@@ -10,9 +10,13 @@ As a Data analyst at Carrefour Kenya and are currently undertaking a project tha
 
 Reduced the dataset to a low dimensional dataset using the t-SNE algorithm or PCA. Performed analysis and provided insights gained from your analysis. Data used is http://bit.ly/CarreFourDataset
 
+The RPubs Link: https://rpubs.com/Joan_Chep/886052
+
 ### Part 2: Feature Selection
 
 Performed feature selection through the use of the unsupervised learning methods. Performed analysis and provided insights on the features that contributed the most information to the dataset. Data used is http://bit.ly/CarreFourDataset
+
+The RPubs Link: 
 
 ### Part 3: Association Rules
 
